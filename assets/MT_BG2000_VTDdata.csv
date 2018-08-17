@@ -1,0 +1,878 @@
+GeoID2,District,Name,County,Total Population,White (NH),Black (NH),Hispanic, Asian and Pacific Islander (NH),Native American (NH),Other (NH)
+300290001002,0,Block Group 2_ Tract 1,Flathead,142,127,2,13,0,0,0
+300530005001,0,Block Group 1_ Tract 5,Lincoln,1037,1008,0,0,0,14,15
+300290001001,0,Block Group 1_ Tract 1,Flathead,138,118,0,0,0,0,20
+300050002001,1,Block Group 1 (part)_ Tract 2,Blaine,1211,1156,0,7,0,27,21
+300410402001,0,Block Group 1_ Tract 402,Hill,585,576,0,0,9,0,0
+300530004001,0,Block Group 1 (part)_ Tract 4,Lincoln,1608,1572,2,12,4,11,7
+300530004003,0,Block Group 3 (part)_ Tract 4,Lincoln,2394,2253,0,38,27,42,34
+300710601001,1,Block Group 1 (part)_ Tract 601,Phillips,1280,1157,0,10,5,85,23
+301051001001,0,Block Group 1 (part)_ Tract 1001,Valley,977,950,0,0,4,12,11
+300910901001,0,Block Group 1 (part)_ Tract 901,Sheridan,487,485,0,0,0,2,0
+300050001001,1,Block Group 1 (part)_ Tract 1,Blaine,581,560,0,0,0,13,8
+300190201001,0,Block Group 1 (part)_ Tract 201,Daniels,767,745,0,13,0,9,0
+300910902002,0,Block Group 2 (part)_ Tract 902,Sheridan,1018,982,0,9,7,14,6
+300910902003,0,Block Group 3 (part)_ Tract 902,Sheridan,521,509,0,0,0,6,6
+300410401001,0,Block Group 1 (part)_ Tract 401,Hill,655,649,0,3,0,0,3
+301010001001,0,Block Group 1 (part)_ Tract 1,Toole,767,730,0,5,0,0,32
+300359763001,0,Block Group 1_ Tract 9763,Glacier,27,27,0,0,0,0,0
+300359401002,0,Block Group 2_ Tract 9401,Glacier,994,502,0,0,0,482,10
+300359760001,0,Block Group 1_ Tract 976,Glacier,677,578,5,5,0,78,11
+300359401001,0,Block Group 1_ Tract 9401,Glacier,539,88,0,17,0,413,21
+301010001002,0,Block Group 2 (part)_ Tract 1,Toole,626,603,0,4,0,13,6
+300510501001,0,Block Group 1 (part)_ Tract 501,Liberty,637,632,1,0,4,0,0
+300410401002,0,Block Group 2 (part)_ Tract 401,Hill,878,844,2,4,3,8,17
+300530004002,0,Block Group 2 (part)_ Tract 4,Lincoln,1381,1316,2,34,8,18,3
+300530003001,0,Block Group 1 (part)_ Tract 3,Lincoln,2072,2010,0,40,0,0,22
+300190201002,0,Block Group 2 (part)_ Tract 201,Daniels,528,517,0,5,0,6,0
+300910902001,0,Block Group 1 (part)_ Tract 902,Sheridan,1329,1204,0,61,0,28,36
+300190201003,0,Block Group 3 (part)_ Tract 201,Daniels,645,602,0,21,5,4,13
+300359401003,0,Block Group 3 (part)_ Tract 9401,Glacier,766,67,0,18,4,652,25
+301010002006,0,Block Group 6 (part)_ Tract 2,Toole,647,638,0,0,1,2,6
+300290001006,0,Block Group 6_ Tract 1,Flathead,486,467,0,2,0,0,17
+300359401005,0,Block Group 5_ Tract 9401,Glacier,859,143,0,0,5,693,18
+301051002001,0,Block Group 1 (part)_ Tract 1002,Valley,748,703,5,2,0,5,33
+300359760002,0,Block Group 2 (part)_ Tract 976,Glacier,719,604,0,6,0,69,40
+300359760004,0,Block Group 4 (part)_ Tract 976,Glacier,1016,758,0,0,11,135,112
+300359760003,0,Block Group 3 (part)_ Tract 976,Glacier,479,437,0,0,0,19,23
+301059405001,0,Block Group 1_ Tract 9405,Valley,217,200,0,0,0,0,17
+300919401001,0,Block Group 1 (part)_ Tract 9401,Sheridan,96,94,0,2,0,0,0
+300919402001,0,Block Group 1_ Tract 9402,Sheridan,6,6,0,0,0,0,0
+300359760005,0,Block Group 5 (part)_ Tract 976,Glacier,1105,1033,0,0,0,55,17
+300199402001,0,Block Group 1_ Tract 9402,Daniels,38,38,0,0,0,0,0
+300199405001,0,Block Group 1_ Tract 9405,Daniels,9,9,0,0,0,0,0
+300199403001,0,Block Group 1_ Tract 9403,Daniels,30,30,0,0,0,0,0
+300910901002,0,Block Group 2 (part)_ Tract 901,Sheridan,648,599,2,0,14,19,14
+300410402002,0,Block Group 2 (part)_ Tract 402,Hill,1325,1233,0,0,0,19,73
+300290003001,0,Block Group 1 (part)_ Tract 3,Flathead,590,557,0,0,0,33,0
+300050002002,0,Block Group 2 (part)_ Tract 2,Blaine,596,539,5,5,7,27,13
+300410403001,0,Block Group 1 (part)_ Tract 403,Hill,562,511,0,0,0,40,11
+300050002003,0,Block Group 3 (part)_ Tract 2,Blaine,926,837,2,0,4,67,16
+300359402001,0,Block Group 1 (part)_ Tract 9402,Glacier,2151,116,0,21,0,1962,52
+300410403002,0,Block Group 2 (part)_ Tract 403,Hill,456,407,3,0,0,16,30
+300410403004,0,Block Group 4 (part)_ Tract 403,Hill,462,342,0,23,7,67,23
+300510501003,2,Block Group 3 (part)_ Tract 501,Liberty,615,613,0,0,0,0,2
+300359402002,0,Block Group 2 (part)_ Tract 9402,Glacier,613,52,0,36,2,513,10
+300859403001,0,Block Group 1_ Tract 9403,Roosevelt,776,493,0,11,7,259,6
+300859402001,0,Block Group 1 (part)_ Tract 9402,Roosevelt,829,400,0,0,26,377,26
+300859401001,0,Block Group 1 (part)_ Tract 9401,Roosevelt,742,106,0,4,8,582,42
+300359402004,0,Block Group 4 (part)_ Tract 9402,Glacier,1660,35,4,8,0,1476,137
+300359402003,0,Block Group 3 (part)_ Tract 9402,Glacier,626,41,0,11,0,551,23
+300410403003,0,Block Group 3 (part)_ Tract 403,Hill,1368,1037,0,31,7,234,59
+300410404001,0,Block Group 1 (part)_ Tract 404,Hill,1779,1509,0,5,0,229,36
+300410403005,0,Block Group 5 (part)_ Tract 403,Hill,797,772,0,0,0,16,9
+300410403006,0,Block Group 6_ Tract 403,Hill,600,394,0,0,0,191,15
+300410404004,0,Block Group 4_ Tract 404,Hill,689,614,0,36,0,0,39
+300410405001,0,Block Group 1_ Tract 405,Hill,541,541,0,0,0,0,0
+300050001002,0,Block Group 2 (part)_ Tract 1,Blaine,894,480,0,46,3,321,44
+300410404003,0,Block Group 3 (part)_ Tract 404,Hill,1104,997,0,25,0,79,3
+300410405002,0,Block Group 2_ Tract 405,Hill,703,564,0,0,0,53,86
+300410405003,0,Block Group 3 (part)_ Tract 405,Hill,1170,1087,0,25,0,34,24
+300059401001,1,Block Group 1 (part)_ Tract 9401,Blaine,1448,66,0,31,0,1336,15
+300510501002,0,Block Group 2 (part)_ Tract 501,Liberty,906,895,0,2,4,0,5
+300410404002,0,Block Group 2 (part)_ Tract 404,Hill,1046,990,0,0,10,20,26
+301010002001,0,Block Group 1 (part)_ Tract 2,Toole,811,790,0,0,4,0,17
+301010002005,0,Block Group 5 (part)_ Tract 2,Toole,601,535,0,0,0,50,16
+301010002002,0,Block Group 2 (part)_ Tract 2,Toole,628,579,0,0,0,17,32
+300359403001,0,Block Group 1_ Tract 9403,Glacier,515,64,0,6,0,394,51
+300359401004,0,Block Group 4 (part)_ Tract 9401,Glacier,501,208,0,0,0,270,23
+301010002004,0,Block Group 4 (part)_ Tract 2,Toole,339,232,8,8,0,75,16
+300290002001,0,Block Group 1 (part)_ Tract 2,Flathead,1718,1566,0,2,0,116,34
+300290001003,0,Block Group 3_ Tract 1,Flathead,567,521,0,25,2,9,10
+301010002003,0,Block Group 3 (part)_ Tract 2,Toole,848,814,0,17,0,17,0
+300530005002,0,Block Group 2 (part)_ Tract 5,Lincoln,1153,1093,0,11,0,16,33
+300739403001,0,Block Group 1_ Tract 9403,Pondera,120,58,0,7,0,40,15
+300739771001,0,Block Group 1 (part)_ Tract 9771,Pondera,886,828,3,6,2,26,21
+300710601005,1,Block Group 5 (part)_ Tract 601,Phillips,802,729,0,0,23,19,31
+300290003005,0,Block Group 5 (part)_ Tract 3,Flathead,879,865,0,0,14,0,0
+300290005002,0,Block Group 2_ Tract 5,Flathead,1185,1139,0,8,7,5,26
+300290003002,0,Block Group 2 (part)_ Tract 3,Flathead,817,751,8,58,0,0,0
+300530005003,0,Block Group 3 (part)_ Tract 5,Lincoln,1103,1077,0,26,0,0,0
+300530003003,0,Block Group 3 (part)_ Tract 3,Lincoln,1598,1471,5,0,0,40,82
+300719401001,0,Block Group 1_ Tract 9401,Phillips,17,0,0,0,0,17,0
+300290003003,0,Block Group 3 (part)_ Tract 3,Flathead,624,619,0,0,0,0,5
+300419401001,0,Block Group 1 (part)_ Tract 9401,Hill,343,81,0,0,11,251,0
+300290001004,0,Block Group 4 (part)_ Tract 1,Flathead,949,848,0,0,13,74,14
+300530001001,0,Block Group 1_ Tract 1,Lincoln,894,867,0,0,0,5,22
+300719402002,1,Block Group 2_ Tract 9402,Phillips,138,10,0,0,0,125,3
+300290005001,0,Block Group 1_ Tract 5,Flathead,372,361,0,0,0,11,0
+300290003004,0,Block Group 4 (part)_ Tract 3,Flathead,960,907,0,13,12,17,11
+300290004003,0,Block Group 3 (part)_ Tract 4,Flathead,483,479,0,4,0,0,0
+300290004004,0,Block Group 4 (part)_ Tract 4,Flathead,702,687,0,0,0,0,15
+300290004002,0,Block Group 2 (part)_ Tract 4,Flathead,1203,1134,0,63,0,0,6
+300530003002,0,Block Group 2 (part)_ Tract 3,Lincoln,399,377,0,0,0,22,0
+300290004006,0,Block Group 6 (part)_ Tract 4,Flathead,1335,1308,0,10,0,6,11
+301059405002,0,Block Group 2_ Tract 9405,Valley,267,230,0,0,2,31,4
+300290004005,0,Block Group 5 (part)_ Tract 4,Flathead,760,749,0,0,0,0,11
+300290004001,0,Block Group 1 (part)_ Tract 4,Flathead,1189,1060,0,36,0,42,51
+300530002001,0,Block Group 1 (part)_ Tract 2,Lincoln,755,732,0,0,0,0,23
+300530002002,0,Block Group 2 (part)_ Tract 2,Lincoln,732,704,0,0,14,0,14
+300290001005,0,Block Group 5 (part)_ Tract 1,Flathead,911,907,0,4,0,0,0
+300419402001,1,Block Group 1 (part)_ Tract 9402,Hill,976,27,0,0,15,920,14
+300739770002,2,Block Group 2_ Tract 977,Pondera,672,662,0,10,0,0,0
+300530001002,0,Block Group 2 (part)_ Tract 1,Lincoln,1273,1146,0,36,0,48,43
+300739771002,0,Block Group 2 (part)_ Tract 9771,Pondera,578,534,0,0,0,32,12
+300530002003,0,Block Group 3_ Tract 2,Lincoln,1137,1052,0,18,0,17,50
+300290002002,0,Block Group 2 (part)_ Tract 2,Flathead,2060,1965,12,32,0,35,16
+300290002004,0,Block Group 4 (part)_ Tract 2,Flathead,1671,1611,0,46,7,7,0
+300850801003,0,Block Group 3 (part)_ Tract 801,Roosevelt,526,491,0,0,0,16,19
+300850801001,0,Block Group 1 (part)_ Tract 801,Roosevelt,507,472,0,6,0,24,5
+300290002007,0,Block Group 7_ Tract 2,Flathead,1364,1345,0,0,0,0,19
+300290004007,0,Block Group 7 (part)_ Tract 4,Flathead,1669,1626,0,36,0,0,7
+300530001003,0,Block Group 3 (part)_ Tract 1,Lincoln,1301,1275,0,0,0,20,6
+300710601002,0,Block Group 2 (part)_ Tract 601,Phillips,545,492,4,0,0,37,12
+300290002003,0,Block Group 3 (part)_ Tract 2,Flathead,410,378,7,25,0,0,0
+300710601003,0,Block Group 3 (part)_ Tract 601,Phillips,668,637,0,0,0,22,9
+300290002005,0,Block Group 5 (part)_ Tract 2,Flathead,1706,1621,0,48,0,20,17
+300290002006,0,Block Group 6_ Tract 2,Flathead,1017,973,0,14,9,13,8
+300710601004,0,Block Group 4 (part)_ Tract 601,Phillips,1151,1042,0,14,6,71,18
+300290006002,0,Block Group 2 (part)_ Tract 6,Flathead,1279,1279,0,0,0,0,0
+300290006003,0,Block Group 3_ Tract 6,Flathead,1471,1431,0,5,4,9,22
+300290006001,0,Block Group 1 (part)_ Tract 6,Flathead,1343,1280,0,17,9,18,19
+300290006004,0,Block Group 4 (part)_ Tract 6,Flathead,1061,1009,3,3,16,12,18
+300059402002,1,Block Group 2 (part)_ Tract 9402,Blaine,409,4,0,5,0,394,6
+300419401002,0,Block Group 2_ Tract 9401,Hill,0,0,0,0,0,0,0
+300739403002,0,Block Group 2 (part)_ Tract 9403,Pondera,771,25,0,9,4,707,26
+300150101002,1,Block Group 2 (part)_ Tract 101,Chouteau,797,788,0,7,0,0,2
+300159401002,0,Block Group 2 (part)_ Tract 9401,Chouteau,833,0,0,22,0,799,12
+300159401001A,0,,Chouteau,0,0,0,0,0,0,0
+300159401001,0,Block Group 1_ Tract 9401,Chouteau,0,0,0,0,0,0,0
+300419402002,0,Block Group 2 (part)_ Tract 9402,Hill,634,0,0,3,0,630,1
+301051001002,1,Block Group 2 (part)_ Tract 1001,Valley,698,680,0,0,0,10,8
+300290006005,0,Block Group 5_ Tract 6,Flathead,983,956,0,4,0,9,14
+300290005003,0,Block Group 3_ Tract 5,Flathead,1220,1177,0,18,0,12,13
+300059402001,1,Block Group 1 (part)_ Tract 9402,Blaine,944,52,0,18,0,869,5
+300890002001,0,Block Group 1_ Tract 2,Sanders,839,818,0,2,0,11,8
+301051002003,0,Block Group 3 (part)_ Tract 1002,Valley,569,546,0,15,2,6,0
+300290008002,0,Block Group 2 (part)_ Tract 8,Flathead,2167,2050,0,37,48,13,19
+300290007001,0,Block Group 1 (part)_ Tract 7,Flathead,676,655,0,7,0,0,14
+300290007003,0,Block Group 3 (part)_ Tract 7,Flathead,1335,1264,0,27,17,0,27
+300739770003,2,Block Group 3 (part)_ Tract 977,Pondera,604,574,0,0,0,24,6
+300290007002,0,Block Group 2_ Tract 7,Flathead,1014,934,0,21,0,27,32
+300290008001,0,Block Group 1 (part)_ Tract 8,Flathead,1425,1363,6,22,0,18,16
+301051004001,0,Block Group 1 (part)_ Tract 1004,Valley,1024,961,0,49,0,0,14
+300290013002,0,Block Group 2_ Tract 13,Flathead,1338,1298,8,5,2,3,22
+300290007004,0,Block Group 4_ Tract 7,Flathead,914,796,0,38,9,44,27
+300290009002,0,Block Group 2 (part)_ Tract 9,Flathead,1320,1287,0,0,0,20,13
+300290005004,0,Block Group 4_ Tract 5,Flathead,824,786,0,9,0,11,18
+300290005006,0,Block Group 6_ Tract 5,Flathead,852,779,0,13,0,10,50
+300290013001,0,Block Group 1_ Tract 13,Flathead,932,915,0,11,4,0,2
+300290009001,0,Block Group 1 (part)_ Tract 9,Flathead,1308,1258,0,27,0,7,16
+300290007005,0,Block Group 5_ Tract 7,Flathead,1035,1018,0,11,6,0,0
+300290012001,0,Block Group 1 (part)_ Tract 12,Flathead,1248,1159,0,21,7,18,43
+300290012002,0,Block Group 2 (part)_ Tract 12,Flathead,382,364,0,13,0,0,5
+300159402001,0,Block Group 1 (part)_ Tract 9402,Chouteau,0,0,0,0,0,0,0
+300150102001,2,Block Group 1 (part)_ Tract 102,Chouteau,616,600,3,0,4,9,0
+300290009003,0,Block Group 3 (part)_ Tract 9,Flathead,906,812,0,50,0,44,0
+300290009004,0,Block Group 4_ Tract 9,Flathead,875,857,0,9,0,9,0
+300290009005,0,Block Group 5 (part)_ Tract 9,Flathead,981,918,0,16,0,40,7
+301051004002,0,Block Group 2 (part)_ Tract 1004,Valley,558,552,0,0,0,6,0
+300739770004,0,Block Group 4 (part)_ Tract 977,Pondera,512,473,0,4,3,13,19
+301051002002,0,Block Group 2 (part)_ Tract 1002,Valley,656,601,0,26,0,9,20
+300150101001,0,Block Group 1 (part)_ Tract 101,Chouteau,737,729,0,0,0,5,3
+300290011005,0,Block Group 5 (part)_ Tract 11,Flathead,673,613,0,0,7,19,34
+301051003001,0,Block Group 1 (part)_ Tract 1003,Valley,780,745,0,0,0,27,8
+300290012003,0,Block Group 3 (part)_ Tract 12,Flathead,860,800,0,30,0,0,30
+300739770006,0,Block Group 6 (part)_ Tract 977,Pondera,714,712,0,0,0,2,0
+300290010001,0,Block Group 1_ Tract 1,Flathead,941,893,0,19,16,6,7
+300290011001,0,Block Group 1 (part)_ Tract 11,Flathead,1154,1062,0,28,5,33,26
+300290010002,0,Block Group 2_ Tract 1,Flathead,917,837,19,4,0,25,32
+300290008003,0,Block Group 3 (part)_ Tract 8,Flathead,1499,1380,0,63,0,22,34
+301051003002,0,Block Group 2 (part)_ Tract 1003,Valley,573,501,0,15,0,42,15
+300290011004,0,Block Group 4_ Tract 11,Flathead,722,682,0,0,18,0,22
+300290011002,0,Block Group 2 (part)_ Tract 11,Flathead,1661,1607,0,18,0,22,14
+300290012004,0,Block Group 4 (part)_ Tract 12,Flathead,1632,1557,0,0,9,38,28
+300290011003,0,Block Group 3 (part)_ Tract 11,Flathead,1015,980,0,26,0,0,9
+300290005005,0,Block Group 5_ Tract 5,Flathead,1336,1291,0,16,0,4,25
+300290012005,0,Block Group 5 (part)_ Tract 12,Flathead,1327,1292,0,6,5,0,24
+300739770005,0,Block Group 5 (part)_ Tract 977,Pondera,733,694,0,0,7,22,10
+300739770007,0,Block Group 7 (part)_ Tract 977,Pondera,834,792,13,4,3,9,13
+300290014001,0,Block Group 1 (part)_ Tract 14,Flathead,1599,1564,0,14,0,0,21
+300850801002,0,Block Group 2 (part)_ Tract 801,Roosevelt,538,490,4,0,0,37,7
+300830701002,0,Block Group 2_ Tract 701,Richland,666,646,0,11,0,4,5
+300290013003,0,Block Group 3_ Tract 13,Flathead,1214,1188,0,8,1,3,14
+300990003002,0,Block Group 2 (part)_ Tract 3,Teton,790,747,4,15,0,12,12
+301059405003,0,Block Group 3 (part)_ Tract 9405,Valley,608,95,2,11,3,484,13
+300990001001,2,Block Group 1 (part)_ Tract 1,Teton,742,728,0,11,3,0,0
+300859402002,0,Block Group 2 (part)_ Tract 9402,Roosevelt,1939,113,4,0,5,1767,50
+300859402003,0,Block Group 3 (part)_ Tract 9402,Roosevelt,1081,251,0,10,13,793,14
+300859404001,0,Block Group 1 (part)_ Tract 9404,Roosevelt,1581,851,0,0,0,689,41
+300859404002,0,Block Group 2 (part)_ Tract 9404,Roosevelt,483,235,0,17,0,225,6
+300290014002,0,Block Group 2 (part)_ Tract 14,Flathead,1055,1040,0,0,0,15,0
+300290013005,0,Block Group 5 (part)_ Tract 13,Flathead,1707,1608,0,32,6,0,61
+300559540003,1,Block Group 3_ Tract 954,McCone,725,675,1,12,2,15,20
+300290013004,0,Block Group 4_ Tract 13,Flathead,803,777,0,7,14,4,1
+300859404004,0,Block Group 4 (part)_ Tract 9404,Roosevelt,879,103,0,16,0,751,9
+300859404003,0,Block Group 3_ Tract 9404,Roosevelt,739,402,0,14,20,282,21
+300890002003,0,Block Group 3 (part)_ Tract 2,Sanders,780,746,0,4,0,25,5
+300290013006,0,Block Group 6 (part)_ Tract 13,Flathead,266,266,0,0,0,0,0
+300470002001,0,Block Group 1 (part)_ Tract 2,Lake,1260,1234,0,12,0,14,0
+300470001001,0,Block Group 1_ Tract 1,Lake,1314,1270,0,23,0,21,0
+300150101003,1,Block Group 3 (part)_ Tract 101,Chouteau,743,728,0,3,0,0,12
+300290014003,0,Block Group 3 (part)_ Tract 14,Flathead,1275,1221,0,20,24,4,6
+300890001001,0,Block Group 1 (part)_ Tract 1,Sanders,1261,1165,0,45,0,16,35
+300990001002,2,Block Group 2 (part)_ Tract 1,Teton,600,576,0,0,0,5,19
+300330001001,1,Block Group 1 (part)_ Tract 1,Garfield,616,610,0,6,0,0,0
+300470002002,0,Block Group 2 (part)_ Tract 2,Lake,472,462,1,0,0,9,0
+300490001002,2,Block Group 2 (part)_ Tract 1,Lewis and Clark,892,864,4,5,0,11,8
+300719402001,0,Block Group 1_ Tract 9402,Phillips,0,0,0,0,0,0,0
+300059402001A,0,,Blaine,0,0,0,0,0,0,0
+300830701001,0,Block Group 1 (part)_ Tract 701,Richland,769,725,6,26,0,4,8
+300890002004,0,Block Group 4 (part)_ Tract 2,Sanders,1538,1448,0,2,7,17,64
+300830702001,1,Block Group 1 (part)_ Tract 702,Richland,623,605,0,8,0,8,2
+300890002002,0,Block Group 2 (part)_ Tract 2,Sanders,1181,1135,5,11,9,12,9
+300299401001,0,Block Group 1 (part)_ Tract 9401,Flathead,19,5,0,0,0,14,0
+300479402001,0,Block Group 1_ Tract 9402,Lake,97,45,0,0,0,46,6
+300479401001A,0,,Lake,0,0,0,0,0,0,0
+300479402002,0,Block Group 2 (part)_ Tract 9402,Lake,855,623,0,0,0,217,15
+300479403009,0,Block Group 9 (part)_ Tract 9403,Lake,712,577,0,6,11,91,27
+300899401001,0,Block Group 1 (part)_ Tract 9401,Sanders,1118,861,9,49,9,159,31
+300150102003,0,Block Group 3 (part)_ Tract 102,Chouteau,800,778,0,6,0,2,14
+300990003003,0,Block Group 3 (part)_ Tract 3,Teton,999,914,0,10,0,42,33
+300990001003,2,Block Group 3 (part)_ Tract 1,Teton,624,575,0,23,5,7,14
+300150102002,0,Block Group 2 (part)_ Tract 102,Chouteau,805,784,0,0,11,6,4
+300830703001,0,Block Group 1 (part)_ Tract 703,Richland,1329,1276,0,25,0,19,9
+300479402003,0,Block Group 3_ Tract 9402,Lake,107,98,0,0,0,9,0
+300150101004,2,Block Group 4 (part)_ Tract 101,Chouteau,639,624,0,0,4,7,4
+300990003004,0,Block Group 4 (part)_ Tract 3,Teton,831,788,0,2,0,14,27
+300830704001,0,Block Group 1 (part)_ Tract 704,Richland,1036,959,0,22,0,0,55
+300270301002,1,Block Group 2 (part)_ Tract 301,Fergus,1352,1335,2,0,0,9,6
+300479403001,0,Block Group 1 (part)_ Tract 9403,Lake,912,772,0,12,0,20,108
+300479403002,0,Block Group 2 (part)_ Tract 9403,Lake,648,535,0,11,0,31,71
+300210001001,0,Block Group 1 (part)_ Tract 1,Dawson,477,471,0,6,0,0,0
+300479401001,0,Block Group 1 (part)_ Tract 9401,Lake,96,87,0,0,0,9,0
+300990002002,2,Block Group 2 (part)_ Tract 2,Teton,1198,1170,3,17,2,6,0
+300270301001,1,Block Group 1 (part)_ Tract 301,Fergus,1441,1393,18,8,0,9,13
+300830703002,0,Block Group 2 (part)_ Tract 703,Richland,1521,1428,0,29,0,50,14
+300990002001,2,Block Group 1_ Tract 2,Teton,661,658,0,0,0,0,3
+300830704002,0,Block Group 2 (part)_ Tract 704,Richland,991,937,0,54,0,0,0
+300830703003,0,Block Group 3 (part)_ Tract 703,Richland,976,940,0,11,0,25,0
+300479403007,0,Block Group 7 (part)_ Tract 9403,Lake,1990,1450,0,129,0,308,103
+300830704003,0,Block Group 3 (part)_ Tract 704,Richland,726,689,0,0,0,9,28
+300479403003,0,Block Group 3 (part)_ Tract 9403,Lake,977,639,0,0,0,298,40
+300130101002,2,Block Group 2 (part)_ Tract 101,Cascade,1933,1770,8,27,13,16,99
+300479403005,0,Block Group 5 (part)_ Tract 9403,Lake,2113,1786,0,0,34,256,37
+300479403004,0,Block Group 4 (part)_ Tract 9403,Lake,804,659,0,23,0,112,10
+300479403006,0,Block Group 6_ Tract 9403,Lake,298,253,0,0,0,5,40
+300830702002,0,Block Group 2 (part)_ Tract 702,Richland,1030,995,0,22,0,7,6
+300479403008,0,Block Group 8_ Tract 9403,Lake,31,31,0,0,0,0,0
+300559540001,0,Block Group 1 (part)_ Tract 954,McCone,532,521,0,7,0,4,0
+300479401002,0,Block Group 2_ Tract 9401,Lake,0,0,0,0,0,0,0
+300479404001,0,Block Group 1_ Tract 9404,Lake,331,307,0,0,0,3,21
+300130107002,2,Block Group 2 (part)_ Tract 107,Cascade,1392,1294,6,9,2,35,46
+300479404002,0,Block Group 2 (part)_ Tract 9404,Lake,2179,1105,0,52,15,876,131
+300479404004,0,Block Group 4_ Tract 9404,Lake,324,246,0,0,0,66,12
+300130107003,2,Block Group 3 (part)_ Tract 107,Cascade,1493,1416,2,26,5,21,23
+300479404003,0,Block Group 3_ Tract 9404,Lake,625,322,0,0,26,239,38
+300899401002,0,Block Group 2_ Tract 9401,Sanders,185,149,0,0,0,29,7
+300630017001,0,Block Group 1_ Tract 17,Missoula,825,773,0,29,2,13,8
+300890002005,0,Block Group 5 (part)_ Tract 2,Sanders,859,832,0,6,0,11,10
+300770001001,0,Block Group 1 (part)_ Tract 1,Powell,501,489,0,2,2,0,8
+300690001001,1,Block Group 1 (part)_ Tract 1,Petroleum,493,483,0,7,0,0,3
+300130106001,2,Block Group 1_ Tract 106,Cascade,813,789,4,19,1,0,0
+300890001002,0,Block Group 2 (part)_ Tract 1,Sanders,1275,1228,0,9,17,5,16
+300130101001,0,Block Group 1 (part)_ Tract 101,Cascade,1885,1680,4,43,35,81,42
+300479405001,0,Block Group 1_ Tract 9405,Lake,412,313,0,19,16,64,0
+300479405006,0,Block Group 6 (part)_ Tract 9405,Lake,720,425,0,18,8,254,15
+300479405003,0,Block Group 3 (part)_ Tract 9405,Lake,313,261,0,25,0,19,8
+300210001002,0,Block Group 2_ Tract 1,Dawson,521,511,0,2,0,2,6
+300130019003,0,Block Group 3 (part)_ Tract 19,Cascade,880,820,0,0,0,38,22
+300479405008,0,Block Group 8_ Tract 9405,Lake,116,17,0,0,0,99,0
+300130018004,0,Block Group 4 (part)_ Tract 18,Cascade,1339,1209,12,16,0,42,60
+300130107001,2,Block Group 1 (part)_ Tract 107,Cascade,1629,1424,0,32,0,160,13
+300479405005,0,Block Group 5 (part)_ Tract 9405,Lake,1052,452,3,37,7,498,55
+300479405004,0,Block Group 4 (part)_ Tract 9405,Lake,1240,796,0,105,0,313,26
+300130019001,0,Block Group 1 (part)_ Tract 19,Cascade,1236,1205,0,19,0,0,12
+300130001002,0,Block Group 2 (part)_ Tract 1,Cascade,797,748,24,0,0,4,21
+300130019002,0,Block Group 2 (part)_ Tract 19,Cascade,2186,2067,0,9,22,46,42
+300130018001,0,Block Group 1 (part)_ Tract 18,Cascade,674,657,0,0,0,17,0
+300130018002,0,Block Group 2_ Tract 18,Cascade,899,830,12,27,0,24,6
+300130017001,0,Block Group 1 (part)_ Tract 17,Cascade,651,565,0,6,0,55,25
+300130018003,0,Block Group 3 (part)_ Tract 18,Cascade,725,659,0,5,17,44,0
+300130002001,0,Block Group 1 (part)_ Tract 2,Cascade,986,905,9,7,0,48,17
+300130012008,0,Block Group 8 (part)_ Tract 12,Cascade,4544,3554,255,397,125,21,192
+300130004001,0,Block Group 1 (part)_ Tract 4,Cascade,1250,1090,12,66,0,34,48
+300130003001,0,Block Group 1 (part)_ Tract 3,Cascade,888,718,25,6,7,67,65
+300130005001,0,Block Group 1 (part)_ Tract 5,Cascade,1085,891,0,15,0,72,107
+300130016004,0,Block Group 4_ Tract 16,Cascade,843,690,6,0,0,73,74
+300130016001,0,Block Group 1_ Tract 16,Cascade,807,666,14,38,0,41,48
+300130016005,0,Block Group 5 (part)_ Tract 16,Cascade,769,718,23,7,0,0,21
+300130003002,0,Block Group 2_ Tract 3,Cascade,1183,1089,8,22,0,54,10
+300130002005,0,Block Group 5_ Tract 2,Cascade,619,607,8,0,4,0,0
+300130002002,0,Block Group 2_ Tract 2,Cascade,566,535,0,31,0,0,0
+300130001001,0,Block Group 1 (part)_ Tract 1,Cascade,1648,1471,35,30,54,15,43
+300130016003,0,Block Group 3_ Tract 16,Cascade,903,874,0,9,0,20,0
+300130005002,0,Block Group 2_ Tract 5,Cascade,1322,1127,6,71,32,67,19
+300130017002,0,Block Group 2 (part)_ Tract 17,Cascade,1025,962,0,0,7,23,33
+300130004002,0,Block Group 2_ Tract 4,Cascade,719,589,0,55,0,65,10
+300130002003,0,Block Group 3_ Tract 2,Cascade,805,736,17,18,9,8,17
+300130003003,0,Block Group 3_ Tract 3,Cascade,788,693,0,95,0,0,0
+300130002004,0,Block Group 4_ Tract 2,Cascade,939,889,0,13,5,8,24
+300130016002,0,Block Group 2_ Tract 16,Cascade,1050,766,0,107,0,163,14
+300130006001,0,Block Group 1_ Tract 6,Cascade,686,553,22,31,0,80,0
+300130003004,0,Block Group 4_ Tract 3,Cascade,834,733,6,49,18,8,20
+300130011004,0,Block Group 4 (part)_ Tract 11,Cascade,1204,1092,42,14,0,27,29
+300130011002,0,Block Group 2 (part)_ Tract 11,Cascade,1080,995,0,23,11,9,42
+300130007002,0,Block Group 2 (part)_ Tract 7,Cascade,935,738,9,29,9,108,42
+300130008001,0,Block Group 1_ Tract 8,Cascade,1103,943,18,30,20,68,24
+300130009004,0,Block Group 4_ Tract 9,Cascade,665,578,7,32,12,0,36
+300130010004,0,Block Group 4_ Tract 1,Cascade,684,648,0,26,0,0,10
+300130010001,0,Block Group 1_ Tract 1,Cascade,985,929,20,9,0,7,20
+300130009001,0,Block Group 1_ Tract 9,Cascade,694,595,0,14,0,23,62
+300330001002,1,Block Group 2 (part)_ Tract 1,Garfield,663,660,3,0,0,0,0
+300130007001,0,Block Group 1_ Tract 7,Cascade,1188,840,0,45,0,235,68
+300479405002,0,Block Group 2 (part)_ Tract 9405,Lake,349,277,0,1,0,43,28
+300130010003,0,Block Group 3_ Tract 1,Cascade,615,577,0,7,8,23,0
+300130011001,0,Block Group 1_ Tract 11,Cascade,1048,940,10,0,33,17,48
+300130011003,0,Block Group 3_ Tract 11,Cascade,1157,1072,10,15,0,0,60
+300130008002,0,Block Group 2_ Tract 8,Cascade,965,715,0,54,0,108,88
+300130009002,0,Block Group 2_ Tract 9,Cascade,739,690,13,0,0,36,0
+300130009003,0,Block Group 3_ Tract 9,Cascade,1110,776,23,40,14,218,39
+300130017003,0,Block Group 3 (part)_ Tract 17,Cascade,615,534,0,12,0,40,29
+300130010002,0,Block Group 2_ Tract 1,Cascade,1022,998,10,0,0,0,14
+300619946001,0,Block Group 1 (part)_ Tract 9946,Mineral,1081,1027,2,18,3,24,7
+300130023001,0,Block Group 1 (part)_ Tract 23,Cascade,670,631,0,15,6,0,18
+300130022004,0,Block Group 4 (part)_ Tract 22,Cascade,1332,1209,29,0,0,43,51
+300130022003,0,Block Group 3_ Tract 22,Cascade,833,766,7,8,0,52,0
+300130022001,0,Block Group 1_ Tract 22,Cascade,564,505,8,38,0,6,7
+300130021002,0,Block Group 2 (part)_ Tract 21,Cascade,907,784,26,10,16,57,14
+300130021009,0,Block Group 9 (part)_ Tract 21,Cascade,2047,1722,33,8,4,192,88
+300130021001,0,Block Group 1_ Tract 21,Cascade,1359,1210,6,19,43,48,33
+300890001003,0,Block Group 3 (part)_ Tract 1,Sanders,707,646,10,23,0,13,15
+300130022005,0,Block Group 5 (part)_ Tract 22,Cascade,835,785,0,12,0,19,19
+300490001001,2,Block Group 1 (part)_ Tract 1,Lewis and Clark,1311,1225,0,16,0,26,44
+300130023002,0,Block Group 2 (part)_ Tract 23,Cascade,1172,1123,0,33,0,9,7
+300479405007,0,Block Group 7 (part)_ Tract 9405,Lake,450,163,0,14,0,244,29
+300130022006,0,Block Group 6 (part)_ Tract 22,Cascade,2112,1992,0,22,0,69,29
+300130023003,0,Block Group 3 (part)_ Tract 23,Cascade,2854,2747,15,78,0,14,0
+300130022002,0,Block Group 2 (part)_ Tract 22,Cascade,638,594,0,0,8,36,0
+300130023004,0,Block Group 4_ Tract 23,Cascade,1585,1530,0,37,0,18,0
+300559540002,0,Block Group 2 (part)_ Tract 954,McCone,720,697,10,5,0,8,0
+300130106003,2,Block Group 3 (part)_ Tract 106,Cascade,865,838,0,7,2,10,8
+300130106004,2,Block Group 4 (part)_ Tract 106,Cascade,1054,1012,0,17,7,6,12
+300130106002,2,Block Group 2 (part)_ Tract 106,Cascade,1006,962,6,25,2,3,8
+300479406005,0,Block Group 5 (part)_ Tract 9406,Lake,796,608,0,13,9,138,28
+300479406001,0,Block Group 1 (part)_ Tract 9406,Lake,1205,1000,0,33,0,160,12
+300130104002,2,Block Group 2 (part)_ Tract 104,Cascade,1008,976,2,0,0,17,13
+300479401004,0,Block Group 4_ Tract 9401,Lake,251,227,0,0,3,14,7
+300479406004,0,Block Group 4_ Tract 9406,Lake,107,80,0,0,0,27,0
+300450001001,2,Block Group 1_ Tract 1,Judith Basin,633,613,0,15,0,0,5
+300479401003,0,Block Group 3_ Tract 9401,Lake,63,61,0,0,0,0,2
+301090001001,0,Block Group 1 (part)_ Tract 1,Wibaux,473,469,0,0,0,4,0
+300899401003,0,Block Group 3 (part)_ Tract 9401,Sanders,321,240,0,10,0,53,18
+300450001002,1,Block Group 2 (part)_ Tract 1,Judith Basin,831,823,2,6,0,0,0
+300899401004,0,Block Group 4 (part)_ Tract 9401,Sanders,136,24,0,3,10,81,18
+300479406003,0,Block Group 3_ Tract 9406,Lake,453,192,0,26,7,223,5
+300479406002,0,Block Group 2 (part)_ Tract 9406,Lake,1083,462,0,53,0,554,14
+300210001003,0,Block Group 3 (part)_ Tract 1,Dawson,511,511,0,0,0,0,0
+300130104001,0,Block Group 1 (part)_ Tract 104,Cascade,916,883,0,0,0,7,26
+300619946002,0,Block Group 2 (part)_ Tract 9946,Mineral,880,830,0,19,9,0,22
+300479407004,0,Block Group 4_ Tract 9407,Lake,9,0,0,0,0,9,0
+300479407001,0,Block Group 1 (part)_ Tract 9407,Lake,610,405,0,8,0,191,6
+300639407004,0,Block Group 4_ Tract 9407,Missoula,0,0,0,0,0,0,0
+300630016001,0,Block Group 1_ Tract 16,Missoula,105,103,0,0,0,0,2
+300899407001,0,Block Group 1_ Tract 9407,Sanders,27,12,0,0,0,9,6
+300630017002,0,Block Group 2 (part)_ Tract 17,Missoula,1641,1582,0,19,3,23,14
+300479407003,0,Block Group 3_ Tract 9407,Lake,22,22,0,0,0,0,0
+300490003001,2,Block Group 1_ Tract 3,Lewis and Clark,622,575,0,15,3,15,14
+300639407003,0,Block Group 3 (part)_ Tract 9407,Missoula,683,425,0,37,0,174,47
+300619945001,0,Block Group 1 (part)_ Tract 9945,Mineral,1186,1107,0,26,10,22,21
+300450001003,1,Block Group 3 (part)_ Tract 1,Judith Basin,865,844,0,2,0,10,9
+300270301003,1,Block Group 3 (part)_ Tract 301,Fergus,2377,2278,0,41,5,25,28
+300630017003,0,Block Group 3 (part)_ Tract 17,Missoula,1077,1013,3,22,10,7,22
+300479407002,0,Block Group 2 (part)_ Tract 9407,Lake,1111,547,18,23,9,475,39
+300790001001,1,Block Group 1 (part)_ Tract 1,Prairie,573,564,0,2,0,3,4
+300210002001,0,Block Group 1 (part)_ Tract 2,Dawson,667,667,0,0,0,0,0
+300619945002,0,Block Group 2 (part)_ Tract 9945,Mineral,737,698,0,6,2,8,23
+300210003001,0,Block Group 1 (part)_ Tract 3,Dawson,1825,1745,0,0,0,71,9
+300639407002,0,Block Group 2_ Tract 9407,Missoula,253,138,0,0,12,85,18
+300639407001,0,Block Group 1_ Tract 9407,Missoula,0,0,0,0,0,0,0
+300630016002,0,Block Group 2 (part)_ Tract 16,Missoula,3853,3692,7,34,5,39,76
+300210002002,0,Block Group 2 (part)_ Tract 2,Dawson,599,599,0,0,0,0,0
+300210002003,0,Block Group 3 (part)_ Tract 2,Dawson,598,579,0,19,0,0,0
+300210003002,0,Block Group 2 (part)_ Tract 3,Dawson,677,659,14,0,0,4,0
+300210003003,0,Block Group 3_ Tract 3,Dawson,815,772,2,9,5,10,17
+300210002004,0,Block Group 4_ Tract 2,Dawson,807,807,0,0,0,0,0
+300210003005,0,Block Group 5 (part)_ Tract 3,Dawson,701,669,0,27,0,0,5
+300630014003,0,Block Group 3 (part)_ Tract 14,Missoula,1551,1468,0,11,61,0,11
+300210003004,0,Block Group 4 (part)_ Tract 3,Dawson,861,820,30,6,0,0,5
+300270302001,0,Block Group 1 (part)_ Tract 302,Fergus,2199,2082,22,16,0,48,31
+300590001001,2,Block Group 1 (part)_ Tract 1,Meagher,616,599,0,7,0,10,0
+300270302002,0,Block Group 2 (part)_ Tract 302,Fergus,2176,2119,0,31,0,26,0
+300270302003,0,Block Group 3 (part)_ Tract 302,Fergus,2348,2260,6,11,5,17,49
+300630009005,0,Block Group 5_ Tract 9,Missoula,2231,2141,0,18,11,52,9
+301090001002,0,Block Group 2 (part)_ Tract 1,Wibaux,595,570,0,13,2,6,4
+300630016003,0,Block Group 3 (part)_ Tract 16,Missoula,2154,2027,0,0,16,47,64
+300490002001,2,Block Group 1_ Tract 2,Lewis and Clark,880,846,0,6,0,25,3
+300630002023,0,Block Group 3 (part)_ Tract 202,Missoula,1578,1434,0,29,7,20,88
+300630001003,0,Block Group 3 (part)_ Tract 1,Missoula,996,944,8,0,35,0,9
+300630002021,0,Block Group 1 (part)_ Tract 202,Missoula,2180,2070,0,31,0,0,79
+300630014002,0,Block Group 2 (part)_ Tract 14,Missoula,1499,1452,0,33,4,0,10
+300490003002,2,Block Group 2 (part)_ Tract 3,Lewis and Clark,1497,1389,8,23,0,35,42
+300630002011,0,Block Group 1 (part)_ Tract 201,Missoula,1520,1280,8,27,0,131,74
+300630001002,0,Block Group 2 (part)_ Tract 1,Missoula,1535,1425,0,15,23,72,0
+300630002022,0,Block Group 2 (part)_ Tract 202,Missoula,2259,2062,0,45,49,41,62
+300630001001,0,Block Group 1 (part)_ Tract 1,Missoula,2075,1961,0,21,35,15,43
+300630002012,0,Block Group 2 (part)_ Tract 201,Missoula,1192,1045,0,41,0,86,20
+300630004001,0,Block Group 1 (part)_ Tract 4,Missoula,2830,2587,16,77,48,28,74
+300630002014,0,Block Group 4_ Tract 201,Missoula,1303,1134,7,52,0,65,45
+300490002002,2,Block Group 2 (part)_ Tract 2,Lewis and Clark,2180,2043,0,50,7,75,5
+300630014004,0,Block Group 4 (part)_ Tract 14,Missoula,782,748,0,18,0,0,16
+300630014005,0,Block Group 5 (part)_ Tract 14,Missoula,830,761,0,3,31,35,0
+300630002013,0,Block Group 3_ Tract 201,Missoula,1066,1024,0,22,9,5,6
+300630008001,0,Block Group 1 (part)_ Tract 8,Missoula,1486,1197,0,91,65,51,82
+300630002015,0,Block Group 5 (part)_ Tract 201,Missoula,1204,1062,12,32,30,17,51
+300630003001,0,Block Group 1_ Tract 3,Missoula,613,533,0,8,0,38,34
+300630001004,0,Block Group 4_ Tract 1,Missoula,837,826,0,0,0,2,9
+300630014001,0,Block Group 1 (part)_ Tract 14,Missoula,1577,1474,3,12,12,18,58
+300630009001,0,Block Group 1 (part)_ Tract 9,Missoula,1534,1364,0,89,11,11,59
+300630003002,0,Block Group 2 (part)_ Tract 3,Missoula,521,417,5,43,0,22,34
+300630008002,0,Block Group 2 (part)_ Tract 8,Missoula,1083,1033,0,50,0,0,0
+300630007001,0,Block Group 1 (part)_ Tract 7,Missoula,669,609,0,16,0,7,37
+300630003003,0,Block Group 3 (part)_ Tract 3,Missoula,974,874,0,5,14,35,46
+300630007003,0,Block Group 3 (part)_ Tract 7,Missoula,832,826,0,0,0,6,0
+300630007002,0,Block Group 2_ Tract 7,Missoula,1038,1001,6,0,0,16,15
+300630005001,0,Block Group 1 (part)_ Tract 5,Missoula,1760,1557,0,59,78,13,53
+300630005002,0,Block Group 2 (part)_ Tract 5,Missoula,2445,2307,0,47,38,29,24
+300630009002,0,Block Group 2 (part)_ Tract 9,Missoula,736,663,0,9,0,34,30
+300630008003,0,Block Group 3 (part)_ Tract 8,Missoula,973,923,0,24,0,14,12
+300630008004,0,Block Group 4_ Tract 8,Missoula,1436,1368,0,52,0,16,0
+300630011001,0,Block Group 1_ Tract 11,Missoula,902,877,0,13,0,0,12
+300630011002,0,Block Group 2_ Tract 11,Missoula,1241,1172,0,26,0,0,43
+300630009003,0,Block Group 3 (part)_ Tract 9,Missoula,1336,1268,0,0,68,0,0
+300630011003,0,Block Group 3_ Tract 11,Missoula,821,769,8,15,0,15,14
+300179613002,1,Block Group 2 (part)_ Tract 9613,Custer,706,686,0,12,0,7,1
+300870001005,1,Block Group 5_ Tract 1,Rosebud,650,609,0,10,6,0,25
+300630010004,0,Block Group 4_ Tract 1,Missoula,1148,1085,10,0,0,22,31
+300630009006,0,Block Group 6 (part)_ Tract 9,Missoula,653,608,3,0,0,42,0
+300630010001,0,Block Group 1_ Tract 1,Missoula,1215,1038,0,0,0,147,30
+300630005003,0,Block Group 3_ Tract 5,Missoula,1134,947,18,35,31,81,22
+300630012001,0,Block Group 1_ Tract 12,Missoula,766,731,0,17,0,18,0
+300630009004,0,Block Group 4 (part)_ Tract 9,Missoula,1382,1350,0,7,0,17,8
+300630005004,0,Block Group 4_ Tract 5,Missoula,1550,1332,7,26,31,92,62
+300630010003,0,Block Group 3_ Tract 1,Missoula,1133,997,0,0,0,121,15
+300630012002,0,Block Group 2_ Tract 12,Missoula,1013,962,0,36,15,0,0
+300630012003,0,Block Group 3_ Tract 12,Missoula,978,969,0,5,0,0,4
+300630012004,0,Block Group 4_ Tract 12,Missoula,1888,1676,10,42,65,59,36
+300630010002,0,Block Group 2_ Tract 1,Missoula,1030,999,0,6,0,20,5
+300630013011,0,Block Group 1_ Tract 1301,Missoula,979,919,0,16,0,10,34
+300630013021,0,Block Group 1 (part)_ Tract 1302,Missoula,1787,1719,0,27,17,24,0
+300630013012,0,Block Group 2_ Tract 1301,Missoula,1212,1130,17,32,16,0,17
+300630013022,0,Block Group 2 (part)_ Tract 1302,Missoula,1151,1123,0,18,10,0,0
+300630013015,0,Block Group 5 (part)_ Tract 1301,Missoula,1127,1037,0,0,25,23,42
+300770001002,0,Block Group 2 (part)_ Tract 1,Powell,472,457,2,0,0,11,2
+300630013014,0,Block Group 4_ Tract 1301,Missoula,1987,1850,0,57,0,20,60
+300630013013,0,Block Group 3 (part)_ Tract 1301,Missoula,1932,1861,0,28,0,15,28
+300630013023,0,Block Group 3 (part)_ Tract 1302,Missoula,739,733,0,6,0,0,0
+300630013016,0,Block Group 6 (part)_ Tract 1301,Missoula,2649,2553,0,50,37,9,0
+300399917001,0,Block Group 1 (part)_ Tract 9917,Granite,908,857,0,4,0,20,27
+300399917002,0,Block Group 2 (part)_ Tract 9917,Granite,967,919,0,8,3,19,18
+300630015002,0,Block Group 2 (part)_ Tract 15,Missoula,1522,1449,10,39,0,0,24
+300630013024,0,Block Group 4_ Tract 1302,Missoula,2330,2158,6,56,17,84,9
+300790001002,0,Block Group 2 (part)_ Tract 1,Prairie,626,614,0,2,2,8,0
+300630015003,0,Block Group 3_ Tract 15,Missoula,1826,1781,0,16,0,12,17
+300070002002,0,Block Group 2 (part)_ Tract 2,Broadwater,1082,1011,4,14,5,8,40
+300630015001,0,Block Group 1 (part)_ Tract 15,Missoula,2635,2553,0,34,12,17,19
+300650001001,1,Block Group 1 (part)_ Tract 1,Musselshell,804,782,0,10,0,6,6
+301070001002,1,Block Group 2 (part)_ Tract 1,Wheatland,971,942,2,9,0,8,10
+300370001001,1,Block Group 1 (part)_ Tract 1,Golden Valley,1042,1028,0,9,0,5,0
+300490012005,0,Block Group 5 (part)_ Tract 12,Lewis and Clark,1965,1868,7,28,7,40,15
+300770001004,0,Block Group 4 (part)_ Tract 1,Powell,287,273,0,10,0,0,4
+300490006001,0,Block Group 1 (part)_ Tract 6,Lewis and Clark,2135,2029,2,32,6,30,36
+300490004004,0,Block Group 4 (part)_ Tract 4,Lewis and Clark,2491,2401,0,9,0,42,39
+300490005005,0,Block Group 5 (part)_ Tract 5,Lewis and Clark,1831,1716,0,29,0,60,26
+301070001001,1,Block Group 1 (part)_ Tract 1,Wheatland,645,628,0,4,0,0,13
+300250001001,1,Block Group 1 (part)_ Tract 1,Fallon,948,938,0,8,0,2,0
+300490004003,0,Block Group 3_ Tract 4,Lewis and Clark,666,641,0,7,0,0,18
+300490005004,0,Block Group 4 (part)_ Tract 5,Lewis and Clark,1507,1422,0,0,11,8,66
+300810001002,0,Block Group 2 (part)_ Tract 1,Ravalli,2301,2241,0,38,0,0,22
+300810001001,0,Block Group 1 (part)_ Tract 1,Ravalli,1348,1283,0,10,0,26,29
+300770001003,0,Block Group 3 (part)_ Tract 1,Powell,149,142,0,0,3,0,4
+300810002005,0,Block Group 5_ Tract 2,Ravalli,2857,2761,0,33,18,9,36
+300490004002,0,Block Group 2 (part)_ Tract 4,Lewis and Clark,1434,1387,0,23,10,0,14
+300490012002,0,Block Group 2 (part)_ Tract 12,Lewis and Clark,2351,2147,0,10,0,119,75
+300490005003,0,Block Group 3 (part)_ Tract 5,Lewis and Clark,1721,1623,0,26,0,48,24
+300490012004,0,Block Group 4 (part)_ Tract 12,Lewis and Clark,3588,3366,17,0,0,97,108
+300770002005,0,Block Group 5 (part)_ Tract 2,Powell,760,739,0,0,11,2,8
+300490007006,0,Block Group 6 (part)_ Tract 7,Lewis and Clark,617,580,3,4,0,14,16
+300490012001,0,Block Group 1 (part)_ Tract 12,Lewis and Clark,709,666,0,10,0,23,10
+300490004001,0,Block Group 1_ Tract 4,Lewis and Clark,993,878,5,17,0,55,38
+300490005002,0,Block Group 2 (part)_ Tract 5,Lewis and Clark,1833,1711,0,51,0,0,71
+300490005001,0,Block Group 1 (part)_ Tract 5,Lewis and Clark,991,984,0,0,0,7,0
+300490007005,0,Block Group 5 (part)_ Tract 7,Lewis and Clark,1388,1244,0,84,0,60,0
+300490007004,0,Block Group 4_ Tract 7,Lewis and Clark,987,964,5,0,0,0,18
+300490007007,0,Block Group 7 (part)_ Tract 7,Lewis and Clark,1011,990,0,0,0,19,2
+300490008006,0,Block Group 6_ Tract 8,Lewis and Clark,535,508,0,0,20,7,0
+300490007003,0,Block Group 3 (part)_ Tract 7,Lewis and Clark,814,757,0,0,29,8,20
+300490008001,0,Block Group 1_ Tract 8,Lewis and Clark,565,535,8,18,4,0,0
+300490009005,0,Block Group 5_ Tract 9,Lewis and Clark,662,516,7,55,0,77,7
+300490007002,0,Block Group 2_ Tract 7,Lewis and Clark,803,718,13,58,0,6,8
+300490009001,0,Block Group 1_ Tract 9,Lewis and Clark,813,734,7,17,0,8,47
+300490011004,0,Block Group 4 (part)_ Tract 11,Lewis and Clark,409,389,0,0,0,20,0
+300490007001,0,Block Group 1 (part)_ Tract 7,Lewis and Clark,997,958,0,19,20,0,0
+300490008002,0,Block Group 2_ Tract 8,Lewis and Clark,736,692,4,36,0,4,0
+300810002001,0,Block Group 1_ Tract 2,Ravalli,971,919,0,0,0,0,52
+300650001003,0,Block Group 3 (part)_ Tract 1,Musselshell,794,766,0,0,0,28,0
+300490009004,0,Block Group 4_ Tract 9,Lewis and Clark,476,460,0,0,0,0,16
+300490009002,0,Block Group 2_ Tract 9,Lewis and Clark,754,730,0,6,0,18,0
+300490012003,0,Block Group 3 (part)_ Tract 12,Lewis and Clark,649,626,0,11,0,7,5
+300490009003,0,Block Group 3_ Tract 9,Lewis and Clark,1128,1026,6,57,17,0,22
+300490008003,0,Block Group 3_ Tract 8,Lewis and Clark,473,418,0,9,0,25,21
+300810002004,0,Block Group 4_ Tract 2,Ravalli,3024,2953,0,36,0,0,35
+300490011001,0,Block Group 1_ Tract 11,Lewis and Clark,679,660,0,7,0,0,12
+300490010003,0,Block Group 3_ Tract 1,Lewis and Clark,662,654,0,0,8,0,0
+300490010001,0,Block Group 1_ Tract 1,Lewis and Clark,914,849,0,21,17,0,27
+300490010002,0,Block Group 2_ Tract 1,Lewis and Clark,761,729,0,0,0,0,32
+300490008004,0,Block Group 4_ Tract 8,Lewis and Clark,569,518,0,0,14,37,0
+300490008005,0,Block Group 5 (part)_ Tract 8,Lewis and Clark,1372,1281,5,38,12,36,0
+300490011003,0,Block Group 3 (part)_ Tract 11,Lewis and Clark,2420,2344,0,22,0,14,40
+300490010005,0,Block Group 5 (part)_ Tract 1,Lewis and Clark,1060,1033,0,7,0,20,0
+300490010004,0,Block Group 4_ Tract 1,Lewis and Clark,636,636,0,0,0,0,0
+300490011002,0,Block Group 2_ Tract 11,Lewis and Clark,1229,1173,0,22,0,0,34
+300439822012,0,Block Group 2 (part)_ Tract 982201,Jefferson,1490,1443,0,12,8,4,23
+300439822023,0,Block Group 3 (part)_ Tract 982202,Jefferson,909,868,7,9,5,0,20
+300439822011,0,Block Group 1 (part)_ Tract 982201,Jefferson,1651,1599,4,20,11,7,10
+300070002001,0,Block Group 1 (part)_ Tract 2,Broadwater,1296,1261,0,15,0,0,20
+300590001002,0,Block Group 2 (part)_ Tract 1,Meagher,515,498,0,9,2,0,6
+300590001003,0,Block Group 3 (part)_ Tract 1,Meagher,801,781,0,15,0,0,5
+300439822022,0,Block Group 2 (part)_ Tract 982202,Jefferson,1363,1289,0,39,6,13,16
+300810002003,0,Block Group 3 (part)_ Tract 2,Ravalli,1014,978,1,28,0,7,0
+300810002002,0,Block Group 2 (part)_ Tract 2,Ravalli,764,725,0,12,0,12,15
+300179613003,1,Block Group 3 (part)_ Tract 9613,Custer,554,545,0,3,2,0,4
+300179613001,1,Block Group 1 (part)_ Tract 9613,Custer,586,572,0,2,3,0,9
+301110015001,1,Block Group 1 (part)_ Tract 15,Yellowstone,1191,1079,0,71,0,0,41
+300810003001,0,Block Group 1 (part)_ Tract 3,Ravalli,1120,1094,0,11,0,15,0
+300650002002,0,Block Group 2 (part)_ Tract 2,Musselshell,779,730,0,28,5,7,9
+301039635001,1,Block Group 1 (part)_ Tract 9635,Treasure,861,819,2,23,3,5,9
+300650002001,0,Block Group 1 (part)_ Tract 2,Musselshell,1315,1235,0,38,3,15,24
+300810003002,0,Block Group 2 (part)_ Tract 3,Ravalli,1719,1577,0,107,20,9,6
+301070001003,0,Block Group 3 (part)_ Tract 1,Wheatland,643,611,0,2,0,4,26
+300179615003,0,Block Group 3 (part)_ Tract 9615,Custer,574,544,0,14,3,0,13
+300179615002,0,Block Group 2 (part)_ Tract 9615,Custer,616,552,0,32,0,19,13
+300179616003,1,Block Group 3 (part)_ Tract 9616,Custer,721,683,0,0,0,38,0
+300650001002,1,Block Group 2 (part)_ Tract 1,Musselshell,805,795,0,0,0,0,10
+300810004004,0,Block Group 4_ Tract 4,Ravalli,962,943,0,0,6,7,6
+300179615001,0,Block Group 1 (part)_ Tract 9615,Custer,638,600,0,34,4,0,0
+300179620003,0,Block Group 3 (part)_ Tract 962,Custer,781,703,0,16,5,13,44
+300179620002,0,Block Group 2_ Tract 962,Custer,740,720,0,10,0,10,0
+300179616002,0,Block Group 2 (part)_ Tract 9616,Custer,708,700,0,0,8,0,0
+300179616001,0,Block Group 1 (part)_ Tract 9616,Custer,723,680,0,11,0,32,0
+300770002001,0,Block Group 1 (part)_ Tract 2,Powell,771,688,0,0,0,56,27
+300179620001,0,Block Group 1 (part)_ Tract 962,Custer,747,720,0,0,0,27,0
+300770002006,0,Block Group 6 (part)_ Tract 2,Powell,1314,1035,22,57,0,167,33
+300770002004,0,Block Group 4 (part)_ Tract 2,Powell,1284,1148,0,67,10,19,40
+300179618002,0,Block Group 2_ Tract 9618,Custer,739,723,0,0,0,16,0
+300179618001,0,Block Group 1_ Tract 9618,Custer,789,769,0,5,0,0,15
+300179619001,0,Block Group 1 (part)_ Tract 9619,Custer,903,883,0,0,7,0,13
+300179619002,0,Block Group 2 (part)_ Tract 9619,Custer,1171,1078,0,11,0,52,30
+300770002002,0,Block Group 2 (part)_ Tract 2,Powell,956,926,0,0,0,19,11
+300770002003,0,Block Group 3 (part)_ Tract 2,Powell,686,681,0,0,5,0,0
+300070001001,0,Block Group 1 (part)_ Tract 1,Broadwater,954,907,0,19,0,24,4
+300250001002,0,Block Group 2 (part)_ Tract 1,Fallon,1040,1022,9,2,0,0,7
+300250001003,0,Block Group 3 (part)_ Tract 1,Fallon,849,834,0,7,2,6,0
+300810004003,0,Block Group 3_ Tract 4,Ravalli,1874,1811,0,63,0,0,0
+300399917003,0,Block Group 3 (part)_ Tract 9917,Granite,955,881,0,20,6,25,23
+300810004002,0,Block Group 2 (part)_ Tract 4,Ravalli,1556,1490,0,37,0,15,14
+300810004001,0,Block Group 1 (part)_ Tract 4,Ravalli,2274,2204,0,35,0,18,17
+300070001002,0,Block Group 2 (part)_ Tract 1,Broadwater,1053,1025,4,10,0,7,7
+300870002001,1,Block Group 1 (part)_ Tract 2,Rosebud,778,768,0,3,0,0,7
+300870001001,1,Block Group 1 (part)_ Tract 1,Rosebud,575,549,0,0,21,0,5
+300810005001,0,Block Group 1 (part)_ Tract 5,Ravalli,1380,1303,6,43,0,11,17
+300810006003,0,Block Group 3 (part)_ Tract 6,Ravalli,1329,1285,0,0,0,27,17
+300810006001,0,Block Group 1 (part)_ Tract 6,Ravalli,1492,1412,0,71,9,0,0
+300870001004,0,Block Group 4 (part)_ Tract 1,Rosebud,432,405,0,5,0,22,0
+300810005002,0,Block Group 2 (part)_ Tract 5,Ravalli,365,365,0,0,0,0,0
+300439822024,0,Block Group 4 (part)_ Tract 982202,Jefferson,640,569,6,9,13,26,17
+300870001003,0,Block Group 3 (part)_ Tract 1,Rosebud,597,588,0,0,0,9,0
+300870001002,0,Block Group 2 (part)_ Tract 1,Rosebud,474,467,0,7,0,0,0
+300230001001,0,Block Group 1_ Tract 1,Deer Lodge,648,590,0,25,0,27,6
+300810005005,0,Block Group 5 (part)_ Tract 5,Ravalli,636,606,0,0,0,30,0
+300810005003,0,Block Group 3 (part)_ Tract 5,Ravalli,1825,1735,0,7,18,12,53
+300810005004,0,Block Group 4_ Tract 5,Ravalli,926,855,0,7,0,6,58
+300439822021,0,Block Group 1 (part)_ Tract 982202,Jefferson,838,807,0,4,0,15,12
+300810006002,0,Block Group 2 (part)_ Tract 6,Ravalli,675,675,0,0,0,0,0
+300230002001,0,Block Group 1_ Tract 2,Deer Lodge,763,689,13,25,0,19,17
+300979670001,1,Block Group 1 (part)_ Tract 967,Sweet Grass,811,798,0,0,2,0,11
+300810006004,0,Block Group 4 (part)_ Tract 6,Ravalli,1436,1394,0,0,0,42,0
+300810005006,0,Block Group 6_ Tract 5,Ravalli,768,709,0,39,0,0,20
+300439823001,0,Block Group 1 (part)_ Tract 9823,Jefferson,787,775,3,0,0,0,9
+300310001001,0,Block Group 1_ Tract 1,Gallatin,719,705,3,0,0,6,5
+300310001002,0,Block Group 2_ Tract 1,Gallatin,2112,2035,18,6,25,0,28
+300670001001,0,Block Group 1 (part)_ Tract 1,Park,702,681,0,11,4,0,6
+300930008001,0,Block Group 1 (part)_ Tract 8,Silver Bow,976,963,3,7,0,3,0
+300230004001,0,Block Group 1 (part)_ Tract 4,Deer Lodge,1153,1105,0,10,0,20,18
+300230001002,0,Block Group 2_ Tract 1,Deer Lodge,618,599,0,12,7,0,0
+300230002002,0,Block Group 2 (part)_ Tract 2,Deer Lodge,809,793,0,10,0,0,6
+300230003001,0,Block Group 1 (part)_ Tract 3,Deer Lodge,1422,1303,0,44,27,27,21
+300310003001,0,Block Group 1 (part)_ Tract 3,Gallatin,1038,993,0,26,7,0,12
+300110003001,1,Block Group 1 (part)_ Tract 3,Carter,875,866,4,0,0,3,2
+300230004002,0,Block Group 2_ Tract 4,Deer Lodge,725,722,0,0,3,0,0
+301110014001,1,Block Group 1 (part)_ Tract 14,Yellowstone,4330,4117,2,97,36,37,41
+300959662001,0,Block Group 1 (part)_ Tract 9662,Stillwater,755,732,0,8,0,6,9
+300230004003,0,Block Group 3_ Tract 4,Deer Lodge,779,747,0,0,0,19,13
+300230003002,0,Block Group 2_ Tract 3,Deer Lodge,540,486,0,28,0,7,19
+300810007001,0,Block Group 1 (part)_ Tract 7,Ravalli,1176,1090,0,18,2,44,22
+300930008002,0,Block Group 2 (part)_ Tract 8,Silver Bow,947,837,3,57,6,42,2
+300230004004,0,Block Group 4_ Tract 4,Deer Lodge,821,779,0,0,6,0,36
+300230003003,0,Block Group 3_ Tract 3,Deer Lodge,1050,986,0,23,0,0,41
+300230003004,0,Block Group 4_ Tract 3,Deer Lodge,89,89,0,0,0,0,0
+300810008002,0,Block Group 2_ Tract 8,Ravalli,418,418,0,0,0,0,0
+300670001002,0,Block Group 2 (part)_ Tract 1,Park,1184,1152,0,0,14,7,11
+300030001004,1,Block Group 4_ Tract 1,Big Horn,612,525,0,50,15,22,0
+300930008004,0,Block Group 4 (part)_ Tract 8,Silver Bow,1397,1350,0,32,0,0,15
+300930008003,0,Block Group 3 (part)_ Tract 8,Silver Bow,656,609,3,32,0,9,3
+300810007002,0,Block Group 2 (part)_ Tract 7,Ravalli,840,760,1,13,2,44,20
+300930001001,0,Block Group 1_ Tract 1,Silver Bow,640,578,0,35,0,27,0
+300930001002,0,Block Group 2 (part)_ Tract 1,Silver Bow,583,520,0,19,0,44,0
+300930002007,0,Block Group 7_ Tract 2,Silver Bow,707,627,0,0,0,59,21
+300930001003,0,Block Group 3_ Tract 1,Silver Bow,643,624,0,4,0,0,15
+300930002006,0,Block Group 6_ Tract 2,Silver Bow,661,496,0,156,9,0,0
+300930001004,0,Block Group 4_ Tract 1,Silver Bow,1219,936,10,195,0,57,21
+300930002001,0,Block Group 1_ Tract 2,Silver Bow,700,644,0,40,0,0,16
+300930002005,0,Block Group 5_ Tract 2,Silver Bow,638,638,0,0,0,0,0
+300930002002,0,Block Group 2_ Tract 2,Silver Bow,629,558,0,30,41,0,0
+301110015003,1,Block Group 3 (part)_ Tract 15,Yellowstone,2297,2144,21,46,0,48,38
+300930002003,0,Block Group 3_ Tract 2,Silver Bow,787,722,0,22,0,0,43
+300930001005,0,Block Group 5_ Tract 1,Silver Bow,826,769,0,10,0,47,0
+300930002004,0,Block Group 4_ Tract 2,Silver Bow,634,618,16,0,0,0,0
+300930001006,0,Block Group 6_ Tract 1,Silver Bow,649,534,20,12,11,62,10
+300930004006,0,Block Group 6_ Tract 4,Silver Bow,633,623,0,10,0,0,0
+300930004005,0,Block Group 5_ Tract 4,Silver Bow,765,758,0,7,0,0,0
+300930004004,0,Block Group 4_ Tract 4,Silver Bow,878,786,0,45,10,37,0
+300930004001,0,Block Group 1_ Tract 4,Silver Bow,641,607,0,21,0,13,0
+300930001007,0,Block Group 7_ Tract 1,Silver Bow,674,577,0,30,0,0,67
+301110015005,0,Block Group 5 (part)_ Tract 15,Yellowstone,1217,1164,0,47,0,0,6
+300930003001,0,Block Group 1_ Tract 3,Silver Bow,1041,1012,6,9,0,12,2
+300930004002,0,Block Group 2_ Tract 4,Silver Bow,585,579,0,0,0,0,6
+300930004003,0,Block Group 3_ Tract 4,Silver Bow,598,562,0,28,0,0,8
+300930003002,0,Block Group 2_ Tract 3,Silver Bow,764,699,0,65,0,0,0
+300930003003,0,Block Group 3_ Tract 3,Silver Bow,666,645,0,14,0,7,0
+300930005001,0,Block Group 1_ Tract 5,Silver Bow,770,770,0,0,0,0,0
+300930005006,0,Block Group 6_ Tract 5,Silver Bow,837,811,0,26,0,0,0
+300930005005,0,Block Group 5_ Tract 5,Silver Bow,802,802,0,0,0,0,0
+300930005002,0,Block Group 2_ Tract 5,Silver Bow,927,826,0,40,0,61,0
+300930006004,0,Block Group 4_ Tract 6,Silver Bow,796,714,0,31,0,36,15
+300930006001,0,Block Group 1_ Tract 6,Silver Bow,829,800,0,15,0,6,8
+300930005004,0,Block Group 4_ Tract 5,Silver Bow,862,842,0,0,0,9,11
+300930005003,0,Block Group 3_ Tract 5,Silver Bow,581,573,0,8,0,0,0
+300930007001,0,Block Group 1_ Tract 7,Silver Bow,1033,989,0,27,0,17,0
+300930006003,0,Block Group 3_ Tract 6,Silver Bow,734,725,0,0,0,9,0
+300930006002,0,Block Group 2_ Tract 6,Silver Bow,657,639,0,10,0,0,8
+300930007002,0,Block Group 2_ Tract 7,Silver Bow,1035,1035,0,0,0,0,0
+300930006006,0,Block Group 6 (part)_ Tract 6,Silver Bow,1082,1030,0,26,0,26,0
+300930008005,0,Block Group 5 (part)_ Tract 8,Silver Bow,1213,1149,2,1,11,9,41
+300930006005,0,Block Group 5_ Tract 6,Silver Bow,735,679,0,26,0,0,30
+300930007003,0,Block Group 3_ Tract 7,Silver Bow,1176,1149,0,27,0,0,0
+300810008001,0,Block Group 1_ Tract 8,Ravalli,1020,962,0,34,0,24,0
+301110015004,1,Block Group 4 (part)_ Tract 15,Yellowstone,1505,1336,6,131,0,12,20
+301110015002,0,Block Group 2 (part)_ Tract 15,Yellowstone,1625,1544,0,48,11,14,8
+300010001001,0,Block Group 1 (part)_ Tract 1,Beaverhead,681,632,0,31,0,11,7
+300870003002,1,Block Group 2 (part)_ Tract 3,Rosebud,758,644,0,24,0,28,62
+300870002002,1,Block Group 2 (part)_ Tract 2,Rosebud,596,430,0,54,5,90,17
+300439823002,0,Block Group 2_ Tract 9823,Jefferson,903,860,0,13,0,0,30
+300310003003,0,Block Group 3 (part)_ Tract 3,Gallatin,978,931,0,21,4,10,12
+300870003001,1,Block Group 1 (part)_ Tract 3,Rosebud,512,437,0,12,0,42,21
+300310003002,0,Block Group 2 (part)_ Tract 3,Gallatin,832,804,0,17,4,7,0
+300310004001,0,Block Group 1 (part)_ Tract 4,Gallatin,1937,1864,0,28,7,8,30
+300310001003,0,Block Group 3 (part)_ Tract 1,Gallatin,2048,1967,0,20,0,18,43
+300870003003,0,Block Group 3_ Tract 3,Rosebud,594,495,0,20,15,64,0
+301110016003,1,Block Group 3 (part)_ Tract 16,Yellowstone,2353,2194,5,70,14,46,24
+300439823003,0,Block Group 3 (part)_ Tract 9823,Jefferson,786,725,0,36,0,13,12
+300870003004,0,Block Group 4_ Tract 3,Rosebud,489,341,0,28,32,81,7
+300310004002,0,Block Group 2 (part)_ Tract 4,Gallatin,367,354,0,13,0,0,0
+300439823004,0,Block Group 4 (part)_ Tract 9823,Jefferson,682,631,0,6,0,39,6
+301110008001,0,Block Group 1 (part)_ Tract 8,Yellowstone,1195,1157,0,0,13,25,0
+300570002001,0,Block Group 1_ Tract 2,Madison,695,669,0,18,6,0,2
+300570002003,0,Block Group 3 (part)_ Tract 2,Madison,1047,977,5,9,0,8,48
+300979670004,0,Block Group 4 (part)_ Tract 967,Sweet Grass,861,809,3,38,7,2,2
+300979670005,0,Block Group 5 (part)_ Tract 967,Sweet Grass,618,614,0,0,0,0,4
+301110007013,0,Block Group 3 (part)_ Tract 701,Yellowstone,993,878,0,38,27,45,5
+301110007022,0,Block Group 2 (part)_ Tract 702,Yellowstone,1095,1074,0,21,0,0,0
+301110007021,0,Block Group 1 (part)_ Tract 702,Yellowstone,1148,1044,12,51,8,14,19
+300310004003,0,Block Group 3 (part)_ Tract 4,Gallatin,1881,1844,0,11,9,12,5
+301110007011,0,Block Group 1_ Tract 701,Yellowstone,1020,981,0,21,6,0,12
+301110007012,0,Block Group 2 (part)_ Tract 701,Yellowstone,1409,1302,3,7,6,52,39
+301110007023,0,Block Group 3 (part)_ Tract 702,Yellowstone,1045,1026,0,5,0,8,6
+301110008003,1,Block Group 3_ Tract 8,Yellowstone,1534,1317,0,73,6,100,38
+300979670002,0,Block Group 2 (part)_ Tract 967,Sweet Grass,606,581,0,12,6,0,7
+300979670003,0,Block Group 3 (part)_ Tract 967,Sweet Grass,713,686,0,4,2,3,18
+301110007024,0,Block Group 4_ Tract 702,Yellowstone,644,644,0,0,0,0,0
+301110007031,0,Block Group 1_ Tract 703,Yellowstone,1379,1297,0,11,0,41,30
+301110007037,0,Block Group 7_ Tract 703,Yellowstone,953,794,6,32,17,70,34
+301110007033,0,Block Group 3 (part)_ Tract 703,Yellowstone,1068,949,0,39,0,80,0
+301110007034,0,Block Group 4_ Tract 703,Yellowstone,1109,924,0,85,9,47,44
+301110007025,0,Block Group 5 (part)_ Tract 702,Yellowstone,1165,1019,0,36,49,37,24
+301110007043,0,Block Group 3 (part)_ Tract 704,Yellowstone,1482,1401,0,21,45,0,15
+301110007032,0,Block Group 2_ Tract 703,Yellowstone,1107,918,0,48,0,120,21
+301110018011,0,Block Group 1 (part)_ Tract 1801,Yellowstone,2394,2318,7,28,0,31,10
+300310002001,0,Block Group 1 (part)_ Tract 2,Gallatin,4163,4042,0,48,20,13,40
+301110007036,0,Block Group 6_ Tract 703,Yellowstone,1293,1243,0,24,19,0,7
+301110007041,0,Block Group 1_ Tract 704,Yellowstone,1073,1015,0,26,8,2,22
+301110007035,0,Block Group 5 (part)_ Tract 703,Yellowstone,653,549,9,76,0,0,19
+300310001004,0,Block Group 4 (part)_ Tract 1,Gallatin,4232,3972,0,108,59,27,66
+301110008002,0,Block Group 2 (part)_ Tract 8,Yellowstone,1617,1491,0,64,8,25,29
+301110007042,0,Block Group 2 (part)_ Tract 704,Yellowstone,1077,997,0,0,0,20,60
+301110013005,0,Block Group 5 (part)_ Tract 13,Yellowstone,1155,1080,20,11,8,9,27
+301110013001,0,Block Group 1_ Tract 13,Yellowstone,1452,1398,0,24,30,0,0
+301110018021,0,Block Group 1 (part)_ Tract 1802,Yellowstone,2446,2368,39,20,0,0,19
+301110006001,0,Block Group 1_ Tract 6,Yellowstone,2107,1961,0,65,25,29,27
+301110013002,0,Block Group 2_ Tract 13,Yellowstone,1080,1021,0,36,0,0,23
+301110002001,0,Block Group 1 (part)_ Tract 2,Yellowstone,2114,1737,16,142,26,138,55
+301110014003,0,Block Group 3 (part)_ Tract 14,Yellowstone,1221,1153,0,21,0,40,7
+301110018022,0,Block Group 2 (part)_ Tract 1802,Yellowstone,2541,2363,10,56,24,64,24
+301110018012,0,Block Group 2 (part)_ Tract 1801,Yellowstone,821,767,0,42,7,0,5
+301110006002,0,Block Group 2_ Tract 6,Yellowstone,1029,1012,0,0,10,7,0
+301110002002,0,Block Group 2_ Tract 2,Yellowstone,1510,1217,33,80,0,163,17
+301110016002,0,Block Group 2 (part)_ Tract 16,Yellowstone,2073,1914,14,43,13,63,26
+301110004001,0,Block Group 1_ Tract 4,Yellowstone,749,729,11,0,0,0,9
+301110013004,0,Block Group 4 (part)_ Tract 13,Yellowstone,1165,1147,11,0,7,0,0
+301110013003,0,Block Group 3_ Tract 13,Yellowstone,1329,1206,0,46,0,77,0
+301110012002,0,Block Group 2_ Tract 12,Yellowstone,1465,1385,7,34,0,39,0
+301110012001,0,Block Group 1_ Tract 12,Yellowstone,1256,1193,16,18,0,20,9
+301110005001,0,Block Group 1 (part)_ Tract 5,Yellowstone,1258,1170,0,71,0,17,0
+301110003001,0,Block Group 1 (part)_ Tract 3,Yellowstone,749,544,30,88,6,25,56
+301110004002,0,Block Group 2_ Tract 4,Yellowstone,1489,1381,9,27,40,0,32
+301110005003,0,Block Group 3_ Tract 5,Yellowstone,1204,1144,0,0,0,60,0
+301110005002,0,Block Group 2_ Tract 5,Yellowstone,936,851,0,54,12,19,0
+300110003002,1,Block Group 2_ Tract 3,Carter,485,475,0,0,4,0,6
+301110004005,0,Block Group 5_ Tract 4,Yellowstone,1043,896,0,60,0,72,15
+300750001001,1,Block Group 1 (part)_ Tract 1,Powder River,709,674,2,0,5,28,0
+300750001003,1,Block Group 3_ Tract 1,Powder River,462,455,0,7,0,0,0
+301110005004,0,Block Group 4_ Tract 5,Yellowstone,721,679,0,0,0,21,21
+301119405001,1,Block Group 1_ Tract 9405,Yellowstone,379,214,0,20,0,124,21
+301110011001,0,Block Group 1_ Tract 11,Yellowstone,1493,1365,0,30,0,50,48
+301110004003,0,Block Group 3_ Tract 4,Yellowstone,1580,1453,0,64,0,41,22
+301110018031,0,Block Group 1 (part)_ Tract 1803,Yellowstone,902,893,0,0,0,5,4
+301110018032,0,Block Group 2_ Tract 1803,Yellowstone,1258,1159,0,43,0,56,0
+301110011004,0,Block Group 4_ Tract 11,Yellowstone,1300,1127,0,92,0,63,18
+301110011003,0,Block Group 3_ Tract 11,Yellowstone,1046,1046,0,0,0,0,0
+301110011002,0,Block Group 2_ Tract 11,Yellowstone,1277,1241,0,36,0,0,0
+301110014004,0,Block Group 4 (part)_ Tract 14,Yellowstone,3698,3490,3,58,31,57,59
+301110003003,0,Block Group 3_ Tract 3,Yellowstone,968,595,0,273,13,70,17
+300310005001,0,Block Group 1 (part)_ Tract 5,Gallatin,2782,2628,0,67,26,10,51
+301110004004,0,Block Group 4_ Tract 4,Yellowstone,1353,1087,0,117,9,114,26
+301110003002,0,Block Group 2_ Tract 3,Yellowstone,813,450,10,180,6,138,29
+300310001005,0,Block Group 5 (part)_ Tract 1,Gallatin,1644,1644,0,0,0,0,0
+301110003004,0,Block Group 4_ Tract 3,Yellowstone,1062,724,0,224,0,94,20
+301110010001,0,Block Group 1_ Tract 1,Yellowstone,1293,1138,0,60,8,53,34
+301110017022,0,Block Group 2_ Tract 1702,Yellowstone,959,916,0,28,0,15,0
+301110010005,0,Block Group 5_ Tract 1,Yellowstone,848,808,0,0,7,33,0
+301110017021,0,Block Group 1_ Tract 1702,Yellowstone,1280,1169,0,68,0,32,11
+301110018042,0,Block Group 2_ Tract 1804,Yellowstone,1166,1134,0,22,0,4,6
+301110018041,0,Block Group 1_ Tract 1804,Yellowstone,1075,1007,7,43,4,0,14
+301110018043,0,Block Group 3_ Tract 1804,Yellowstone,644,626,0,0,0,12,6
+301110010004,0,Block Group 4_ Tract 1,Yellowstone,836,767,0,45,0,0,24
+301110009013,0,Block Group 3 (part)_ Tract 901,Yellowstone,767,631,0,47,0,75,14
+301110017023,0,Block Group 3_ Tract 1702,Yellowstone,2106,1952,21,86,0,25,22
+301110010002,0,Block Group 2_ Tract 1,Yellowstone,862,774,0,60,0,28,0
+300959964003,0,Block Group 3 (part)_ Tract 9964,Stillwater,1382,1294,0,42,0,3,43
+301110009021,0,Block Group 1 (part)_ Tract 902,Yellowstone,1313,1016,30,105,0,147,15
+301110009022,0,Block Group 2 (part)_ Tract 902,Yellowstone,974,696,12,117,6,78,65
+301110010003,0,Block Group 3_ Tract 1,Yellowstone,933,667,36,0,0,217,13
+301110009012,0,Block Group 2 (part)_ Tract 901,Yellowstone,955,852,17,43,14,29,0
+301110017012,0,Block Group 2 (part)_ Tract 1701,Yellowstone,657,586,0,71,0,0,0
+301110017014,0,Block Group 4_ Tract 1701,Yellowstone,1194,1149,0,22,0,0,23
+300959663001,0,Block Group 1 (part)_ Tract 9663,Stillwater,1809,1766,0,6,6,19,12
+301110017011,0,Block Group 1_ Tract 1701,Yellowstone,1553,1530,0,0,8,0,15
+300039406002,1,Block Group 2 (part)_ Tract 9406,Big Horn,397,52,0,0,0,340,5
+300039406001,1,Block Group 1 (part)_ Tract 9406,Big Horn,2407,359,0,14,0,2034,0
+301110009023,0,Block Group 3 (part)_ Tract 902,Yellowstone,1187,800,0,190,0,180,17
+301110009024,0,Block Group 4 (part)_ Tract 902,Yellowstone,1595,1373,7,99,22,56,38
+301110017013,0,Block Group 3_ Tract 1701,Yellowstone,3843,3405,0,151,52,171,64
+301110009011,0,Block Group 1 (part)_ Tract 901,Yellowstone,960,912,0,48,0,0,0
+301110017015,0,Block Group 5 (part)_ Tract 1701,Yellowstone,1305,1224,12,35,0,29,5
+300670002001,0,Block Group 1_ Tract 2,Park,736,699,3,16,0,0,18
+300030001001,0,Block Group 1 (part)_ Tract 1,Big Horn,960,675,0,68,27,162,28
+300030001002,0,Block Group 2 (part)_ Tract 1,Big Horn,1875,1043,0,88,33,656,55
+300670002002,0,Block Group 2 (part)_ Tract 2,Park,1707,1621,14,19,2,29,22
+301110016001,1,Block Group 1 (part)_ Tract 16,Yellowstone,1508,1347,5,56,29,50,21
+300030001003,0,Block Group 3_ Tract 1,Big Horn,911,600,0,76,0,228,7
+300310005002,0,Block Group 2 (part)_ Tract 5,Gallatin,2120,1963,8,89,7,32,21
+300010002001,0,Block Group 1 (part)_ Tract 2,Beaverhead,1221,1204,0,0,0,0,17
+300670003001,0,Block Group 1 (part)_ Tract 3,Park,1323,1286,0,19,0,8,10
+300310006001,0,Block Group 1 (part)_ Tract 6,Gallatin,1009,916,0,26,0,46,21
+300310006002,0,Block Group 2 (part)_ Tract 6,Gallatin,877,857,16,0,0,0,4
+300310005003,0,Block Group 3 (part)_ Tract 5,Gallatin,1440,1412,0,16,0,6,6
+301110019004,0,Block Group 4 (part)_ Tract 19,Yellowstone,1026,972,0,0,0,0,54
+301110019005,0,Block Group 5 (part)_ Tract 19,Yellowstone,2384,2244,0,57,31,52,0
+301110019001,0,Block Group 1 (part)_ Tract 19,Yellowstone,2014,1951,0,35,0,28,0
+300039403001,1,Block Group 1 (part)_ Tract 9403,Big Horn,1543,134,0,48,0,1335,26
+300879404001,1,Block Group 1 (part)_ Tract 9404,Rosebud,2285,129,0,25,0,2082,49
+300879404002,1,Block Group 2 (part)_ Tract 9404,Rosebud,643,104,0,8,3,497,31
+301110014002,0,Block Group 2_ Tract 14,Yellowstone,727,727,0,0,0,0,0
+300310007004,0,Block Group 4 (part)_ Tract 7,Gallatin,5074,4800,0,65,102,76,31
+300310007002,0,Block Group 2_ Tract 7,Gallatin,1092,1032,0,0,0,36,24
+300310007001,0,Block Group 1_ Tract 7,Gallatin,783,751,0,24,8,0,0
+300310007003,0,Block Group 3_ Tract 7,Gallatin,978,974,0,0,4,0,0
+301110019006,0,Block Group 6 (part)_ Tract 19,Yellowstone,685,681,0,0,4,0,0
+300310010004,0,Block Group 4 (part)_ Tract 1,Gallatin,1891,1779,0,53,0,49,10
+300039405002,1,Block Group 2 (part)_ Tract 9405,Big Horn,841,186,0,17,0,594,44
+300310009002,0,Block Group 2_ Tract 9,Gallatin,1416,1340,0,29,23,24,0
+300310009001,0,Block Group 1_ Tract 9,Gallatin,1113,1089,0,5,0,0,19
+300310009003,0,Block Group 3_ Tract 9,Gallatin,925,831,0,20,38,0,36
+300310008001,0,Block Group 1_ Tract 8,Gallatin,1120,1027,9,21,38,0,25
+300310010003,0,Block Group 3 (part)_ Tract 1,Gallatin,492,492,0,0,0,0,0
+300310008002,0,Block Group 2_ Tract 8,Gallatin,655,628,0,0,0,27,0
+301110019002,0,Block Group 2 (part)_ Tract 19,Yellowstone,977,941,0,27,0,0,9
+300670004001,0,Block Group 1 (part)_ Tract 4,Park,940,885,0,55,0,0,0
+300310008003,0,Block Group 3_ Tract 8,Gallatin,768,731,0,0,22,0,15
+300670003002,0,Block Group 2 (part)_ Tract 3,Park,829,752,0,56,0,21,0
+300310010001,0,Block Group 1 (part)_ Tract 1,Gallatin,1131,1076,0,36,8,0,11
+301110019003,0,Block Group 3 (part)_ Tract 19,Yellowstone,713,691,0,6,0,16,0
+300310012001,0,Block Group 1 (part)_ Tract 12,Gallatin,1308,1255,16,17,0,15,5
+300310011002,0,Block Group 2_ Tract 11,Gallatin,2688,2439,27,54,114,28,26
+300310011003,0,Block Group 3 (part)_ Tract 11,Gallatin,2227,1937,1,46,106,91,46
+300310011001,0,Block Group 1_ Tract 11,Gallatin,1500,1397,0,11,24,0,68
+300310012002,0,Block Group 2 (part)_ Tract 12,Gallatin,2415,2321,8,15,25,12,34
+300310010002,0,Block Group 2_ Tract 1,Gallatin,772,699,0,44,10,0,19
+300670004002,0,Block Group 2 (part)_ Tract 4,Park,846,830,0,7,9,0,0
+300310005005,0,Block Group 5 (part)_ Tract 5,Gallatin,1921,1871,0,7,12,18,13
+300670003003,0,Block Group 3 (part)_ Tract 3,Park,1356,1305,9,0,0,0,42
+300670004006,0,Block Group 6_ Tract 4,Park,807,779,0,5,0,0,23
+300310010005,0,Block Group 5 (part)_ Tract 1,Gallatin,2524,2415,0,80,17,0,12
+300670004003,0,Block Group 3 (part)_ Tract 4,Park,1029,1008,0,21,0,0,0
+300670004005,0,Block Group 5 (part)_ Tract 4,Park,764,697,0,31,13,23,0
+300959964001,0,Block Group 1 (part)_ Tract 9964,Stillwater,1366,1270,5,27,15,19,30
+300670004004,0,Block Group 4 (part)_ Tract 4,Park,952,917,7,28,0,0,0
+300039405003,1,Block Group 3 (part)_ Tract 9405,Big Horn,710,328,0,96,0,286,0
+300959965002,0,Block Group 2_ Tract 9965,Stillwater,97,97,0,0,0,0,0
+300959964002,0,Block Group 2 (part)_ Tract 9964,Stillwater,565,525,0,28,0,0,12
+300570001001,0,Block Group 1 (part)_ Tract 1,Madison,1356,1290,0,38,15,0,13
+300090001003,1,Block Group 3_ Tract 1,Carbon,995,965,0,7,5,5,13
+300310005004,0,Block Group 4_ Tract 5,Gallatin,1972,1910,0,56,0,0,6
+300570002002,0,Block Group 2 (part)_ Tract 2,Madison,788,755,2,14,0,2,15
+300670002003,0,Block Group 3_ Tract 2,Park,727,692,3,24,2,2,4
+300090001001,0,Block Group 1 (part)_ Tract 1,Carbon,560,544,1,4,2,9,0
+300090005001,1,Block Group 1 (part)_ Tract 5,Carbon,1272,1248,0,9,0,3,12
+300570003001,0,Block Group 1 (part)_ Tract 3,Madison,1129,1093,0,14,0,9,13
+300959965003,0,Block Group 3_ Tract 9965,Stillwater,993,958,2,18,0,5,10
+300959965001,0,Block Group 1 (part)_ Tract 9965,Stillwater,1228,1175,2,36,0,2,13
+300010002002,0,Block Group 2 (part)_ Tract 2,Beaverhead,1980,1824,0,111,0,0,45
+300090001002,0,Block Group 2 (part)_ Tract 1,Carbon,675,642,4,17,1,0,11
+300310013002,0,Block Group 2 (part)_ Tract 13,Gallatin,1026,979,2,16,9,5,15
+300039407003,1,Block Group 3_ Tract 9407,Big Horn,193,56,0,2,0,132,3
+300570003002,0,Block Group 2 (part)_ Tract 3,Madison,777,741,0,3,0,9,24
+300090002001,1,Block Group 1 (part)_ Tract 2,Carbon,971,944,0,14,0,3,10
+300750001002,1,Block Group 2 (part)_ Tract 1,Powder River,687,665,0,8,0,14,0
+300090004001,0,Block Group 1 (part)_ Tract 4,Carbon,943,930,0,7,0,6,0
+300039407001,1,Block Group 1 (part)_ Tract 9407,Big Horn,1053,273,0,20,0,730,30
+300310013001,0,Block Group 1 (part)_ Tract 13,Gallatin,571,558,5,0,0,8,0
+300570001002,0,Block Group 2 (part)_ Tract 1,Madison,1059,1031,0,8,2,0,18
+300090004002,0,Block Group 2 (part)_ Tract 4,Carbon,971,950,0,5,8,8,0
+300030004001,1,Block Group 1_ Tract 4,Big Horn,139,139,0,0,0,0,0
+300090002002,0,Block Group 2 (part)_ Tract 2,Carbon,883,837,0,30,4,5,7
+300039407002,1,Block Group 2 (part)_ Tract 9407,Big Horn,1030,102,0,39,0,882,7
+300010001002,0,Block Group 2_ Tract 1,Beaverhead,456,404,0,41,0,0,11
+300670005002,0,Block Group 2 (part)_ Tract 5,Park,914,890,2,14,4,4,0
+300090003001,0,Block Group 1 (part)_ Tract 3,Carbon,1006,962,0,24,5,15,0
+300010003001,0,Block Group 1 (part)_ Tract 3,Beaverhead,1128,1086,0,0,0,42,0
+300010003002,0,Block Group 2 (part)_ Tract 3,Beaverhead,1170,1079,0,18,0,20,53
+300090003003,0,Block Group 3 (part)_ Tract 3,Carbon,611,595,0,0,0,6,10
+300010003004,0,Block Group 4 (part)_ Tract 3,Beaverhead,1559,1479,0,5,0,59,16
+300010003003,0,Block Group 3 (part)_ Tract 3,Beaverhead,627,585,18,0,0,19,5
+300090003002,0,Block Group 2_ Tract 3,Carbon,665,648,0,0,0,0,17
+300310014001,0,Block Group 1_ Tract 14,Gallatin,31,31,0,0,0,0,0
+300670005001,0,Block Group 1 (part)_ Tract 5,Park,850,817,8,2,7,9,7
+300670006001,0,Block Group 1_ Tract 6,Park,28,28,0,0,0,0,0
+300010001003,0,Block Group 3 (part)_ Tract 1,Beaverhead,380,363,0,7,0,2,8
+300310013003,0,Block Group 3 (part)_ Tract 13,Gallatin,1259,1113,6,118,4,12,6
